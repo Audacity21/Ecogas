@@ -23,3 +23,22 @@ Our project aims to solve the UN sustainable development goal of generating clea
 10. Go to MySQL workbench and create a new schema called ecogas.
 10. Open `src->main->resources->application.properties`, change the configuration of the variables according to your system. Replace the `{api_key}` variable in **points.jsp** and **addplant.jsp**.
 11. Right click on the project directory and click on `Run As->Spring Boot App`. The project should run successfully.
+
+## Screenshots
+#### Homepage: 
+![image](https://user-images.githubusercontent.com/83300897/229124674-83e83c58-fa8d-41eb-a79d-e387b7d96016.png)
+
+#### Registration Page(for both user and plant owner):
+![image](https://user-images.githubusercontent.com/83300897/229124825-73f6aac7-a8eb-41d0-becf-f305eb701892.png)
+
+#### Plant Owner Dashboard:
+![image](https://user-images.githubusercontent.com/83300897/229125425-14946ae3-d648-40ca-9107-0cac7b875715.png)
+
+#### Plant Details and location update page: 
+![image](https://user-images.githubusercontent.com/83300897/229125225-eecb014d-6c99-4d40-99e8-52a52030b3a3.png)
+
+#### Plant List:
+![image](https://user-images.githubusercontent.com/83300897/229126086-9aae3fef-b72b-4232-930d-4967d9eb2838.png)
+
+#### Order Page: 
+![image](https://user-images.githubusercontent.com/83300897/229126419-c203c27b-f1b3-4829-b8e6-9a81e44aa2ca.png)
