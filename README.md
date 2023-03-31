@@ -21,7 +21,7 @@ Our project aims to solve the UN sustainable development goal of generating clea
 8. Click on import project.
 9. Once the project is imported, right click, go to `Maven->Update Project`, click on that and check on `Force Update`. This will download all the dependencies.
 10. Go to MySQL workbench and create a new schema called ecogas.
-10. Open `src->main->resources->application.properties`, change the configuration of the variables according to your system. Replace the `{api_key}` variable in **points.jsp** and **addplant.jsp**.
+10. Open `src->main->resources->application.properties`, change the configuration of the variables according to your system. Replace the `{api_key}` variable in **points.jsp**, **updateplant.jsp** and **addplant.jsp**.
 11. Right click on the project directory and click on `Run As->Spring Boot App`. The project should run successfully.
 
 ## Screenshots
@@ -42,3 +42,8 @@ Our project aims to solve the UN sustainable development goal of generating clea
 
 #### Order Page: 
 ![image](https://user-images.githubusercontent.com/83300897/229126419-c203c27b-f1b3-4829-b8e6-9a81e44aa2ca.png)
+
+**P.S: All the pages are responsive and can be viewed in mobile.**
+
+## Contribution Guide
+We won't be accepting any PR's till the Solution Challenge evaluation is not done, after that we will keep the application open-source and would welcome contributions to this project. 
