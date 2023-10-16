@@ -1,4 +1,4 @@
-# Ecogas - Google Soultion Challenge 2023
+# Ecogas
 
 ## Overview
 Our project aims to solve the UN sustainable development goal of generating clean and renewable energy by promoting the use of biofuel in India. Biofuel is often used as energy source but not on a large scale. Ecogas aims to scale it up by providing an interface for biogas plant owners to connect with people who are ready to supply organic waste to them, who in turn will be able to purchase fuel, fertilizers and other products from the plant owners. Ecogas facilitates everything for the end users which gives this app/idea a huge potential if implemented properly.
